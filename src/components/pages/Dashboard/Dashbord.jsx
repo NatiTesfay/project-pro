@@ -8,7 +8,7 @@ import Information from "../../features/information/Information";
 import Diagram from "../../features/diagram/Diagram";
 import OrderTable from "../../features/orderTable/OrderTable";
 import LastOrder from "../../features/lastOrders/LastOrders";
-import { Row, Col, Container } from "react-bootstrap";
+// import { Row, Col, Container } from "react-bootstrap";
 import "./Dashboard.css";
 const Dashbord = () => {
   return (
